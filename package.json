@@ -1,0 +1,26 @@
+{
+  "name": "nodejs_express",
+  "version": "1.0.0",
+  "description": "Node.js with express framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iAntivist/nodejs_express.git"
+  },
+  "author": "Agung Siswanto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iAntivist/nodejs_express/issues"
+  },
+  "homepage": "https://github.com/iAntivist/nodejs_express#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
